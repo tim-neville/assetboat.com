@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ASSET BOAT</title>
-    <link>https://tim-neville.github.io/assetboat.com/categories/</link>
+    <link>https://assetboat.com/categories/</link>
     <description>Recent content in Categories on ASSET BOAT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tim-neville.github.io/assetboat.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://assetboat.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
